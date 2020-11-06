@@ -5,6 +5,13 @@ header {
      font-family: Optima, sans-serif;
 }
 
+body {
+    background-image: url("backimage.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+}
+
 header * {
     display: inline;
 }
@@ -24,7 +31,10 @@ header li a {
     margin: 50px;  
 }
 
-table, th, td {
-  border: none;
-  background-color: none;
+table {
+    border: none;
+    background-color: none;
+    height: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
