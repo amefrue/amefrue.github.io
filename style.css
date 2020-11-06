@@ -32,7 +32,7 @@ header li a {
 }
 
 table {
-    border: 1px solid black;
+    border: 1px;
     background-color: #ebebeb;
     margin-left: 7%;
     margin-right: 5%;
