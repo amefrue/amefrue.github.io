@@ -32,8 +32,8 @@ header li a {
 }
 
 table {
-    border: 1px;
-    background-color: #ebebeb;
+    border-width: 1px;
+    background: #ebebeb;
     margin-left: 7%;
     margin-right: 5%;
 }
