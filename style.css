@@ -32,8 +32,10 @@ header li a {
 }
 
 table {
+    border-style: solid;
     border-width: 1px;
-    background: #ebebeb;
+    background: grey;
+    opacity: 0.3;
     margin-left: 7%;
     margin-right: 5%;
 }
