@@ -34,6 +34,7 @@ header li a {
 table {
     border-style: solid;
     border-width: 1px;
+    border-color: black;
     background: grey;
     opacity: 0.3;
     margin-left: 7%;
