@@ -33,7 +33,6 @@ header li a {
 
 table {
     border: 1px solid black;
-    border-collapse: collapse;
     background: grey;
     opacity: 0.3;
     margin-left: 7%;
